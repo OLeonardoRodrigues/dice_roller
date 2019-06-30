@@ -87,27 +87,27 @@ class _RollerState extends State<Roller> {
       bottomNavigationBar: BottomNavigationBar(
         items: const <BottomNavigationBarItem> [
           BottomNavigationBarItem(
-            icon: Icon(IconData(0xe818, fontFamily: 'Custom',)),
+            icon: Icon(IconData(0xe818, fontFamily: 'Custom',),),
             title: Text("D04"),
           ),
           BottomNavigationBarItem(
-            icon: Icon(IconData(0xe80b, fontFamily: 'Custom')),
+            icon: Icon(IconData(0xe80b, fontFamily: 'Custom',),),
             title: Text("D06"),
           ),
           BottomNavigationBarItem(
-            icon: Icon(IconData(0xe81b, fontFamily: 'Custom')),
+            icon: Icon(IconData(0xe81b, fontFamily: 'Custom',),),
             title: Text("D08"),
           ),
           BottomNavigationBarItem(
-            icon: Icon(IconData(0xe819, fontFamily: 'Custom')),
+            icon: Icon(IconData(0xe819, fontFamily: 'Custom',),),
             title: Text("D10"),
           ),
           BottomNavigationBarItem(
-            icon: Icon(IconData(0xe81a, fontFamily: 'Custom')),
+            icon: Icon(IconData(0xe81a, fontFamily: 'Custom',),),
             title: Text("D12"),
           ),
           BottomNavigationBarItem(
-            icon: Icon(IconData(0xe801, fontFamily: 'Custom')),
+            icon: Icon(IconData(0xe801, fontFamily: 'Custom',),),
             title: Text("D20"),
           ),
         ],
