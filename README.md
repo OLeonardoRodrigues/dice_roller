@@ -1,3 +1,3 @@
-# dice_roller
+# Dice Roller
 
-Just a simple app for rolling dices of different types.
+I wanted to understand the logic behind the Flutter framework, so I just made a very simple, one screen app for rolling RPG and common dices written in Flutter.
